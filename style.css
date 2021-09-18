@@ -1,0 +1,182 @@
+
+#selection {
+    padding: 8% 15% 6%;
+    text-align: center;
+}
+
+.section-heading{
+    font-size: 50px;
+}
+
+#pricing{
+    text-align: center;
+    padding: 8% 15% 10%;
+    background-color: #D88D27;
+}
+
+#footer h2{
+    font-size: 21px;
+}
+
+p{
+    font-size: 21px;
+}
+
+a{
+    margin-right: 25px;
+}
+
+.navbar{
+   padding: 0 50px;
+    background-color:#D98D26;
+}
+
+
+
+.navbar-nav {
+    margin-right: 20px;
+    font-size: 20px;
+   margin-left: 75%;
+}
+
+.first-t {
+    font-weight: bold;
+    line-height: 2;
+    background-color: #E0A452;
+    padding: 7% 8%;
+}
+
+.texts{
+    text-align: center;
+    padding: 12% 40% 5% 5%;
+}
+
+
+.burn{
+    font-size: 25px;
+    padding-left: 20px;
+    padding-right: 22px;
+    margin-top: 30px;
+}
+
+.top-img{
+    height: 500px;
+    width: 500px;
+}
+
+
+.tso-img{
+    float: left;
+    border-radius: 5%;
+    width: 70%;
+   
+
+}
+
+
+
+.two {
+   
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+
+.fe-img {
+
+    float: right;
+    border-radius: 5%;
+    width: 70%;
+    
+}
+
+#footer{
+    padding: 5% 9% 7%;
+    text-align: center;
+}
+
+
+
+
+
+                                       /* media */
+
+
+
+
+
+@media (max-width: 1028px) {
+     
+p{
+    font-size: 24px;
+}
+
+a{
+    margin-right: 30px;
+}
+
+.navbar{
+    padding: 0 50px;
+    background-color:#D98D26;
+}
+
+
+
+.navbar-nav {
+    margin-right: 20px;
+    font-size: 20px;
+   margin-left: 75%;
+}
+
+
+.top-img{
+    position: relative;
+    left: 80px;
+    margin: auto;
+    height: 500px;
+    width: 500px;
+}
+
+
+.first-t {
+    font-weight: bold;
+    line-height: 2;
+    background-color: #E0A452;
+    padding: 7% 15%;
+}
+
+
+#selection {
+    padding: 8% 15% 8%;
+    text-align: center;
+}
+
+
+.tso-img{
+   float: left;
+    border-radius: 5%;
+    height: 200px;
+    width: 100%;
+}
+
+.two {
+   
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.fe-img {
+
+    float: right;
+    border-radius: 5%;
+    height: 200px;
+    width: 100%;
+}
+
+.pricing-column{
+    margin-bottom: 40px;
+}
+}
+
+
